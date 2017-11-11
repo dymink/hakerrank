@@ -1,9 +1,9 @@
+/* https://www.hackerrank.com/challenges/icecream-parlor/ */
 
+import java.io.*;
+import java.util.*;
 
-	import java.io.*;
-	import java.util.*;
-
-	public class Solution {
+public class Solution {
 
 	    public static void main(String[] args) {
 			// TODO Auto-generated method stub
@@ -41,5 +41,4 @@
 			}
 			scan.close();
 		}
-	}
-
+}
